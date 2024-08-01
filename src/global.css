@@ -1,0 +1,86 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Newsreader:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Zilla+Slab:ital,wght@0,400;1,500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --body-1: Inter;
+  --h1: "Zilla Slab";
+  --font-poppins: Poppins;
+  --font-newsreader: Newsreader;
+  --font-roboto: Roboto;
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --h2-size: 25px;
+  --body-1-size: 20px;
+  --font-size-sm: 14px;
+  --font-size-lg: 18px;
+  --h1-size: 36px;
+  --font-size-lg-7: 18.7px;
+  --h3-size: 24px;
+  --font-size-base-5: 16.5px;
+  --font-size-13xl: 32px;
+  --font-size-16xl: 35px;
+  --font-size-lg-9: 18.9px;
+  --font-size-11xl: 30px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-darkgray-100: #afafaf;
+  --color-darkgray-200: #a6a6a6;
+  --color-darkgray-300: #969696;
+  --highlight-head: #000;
+  --color-gainsboro-100: #e0e0e0;
+  --color-gainsboro-200: #ddd;
+  --color-gainsboro-300: #d9d9d9;
+  --body-dark: #464646;
+  --body: #343434;
+  --color-darkslategray-100: #2d2d2d;
+  --color-whitesmoke-100: #f9f9f9;
+  --color-whitesmoke-200: #f7f7f7;
+  --color-whitesmoke-300: #f4f4f4;
+  --color-whitesmoke-400: #efefef;
+  --color-whitesmoke-500: #eee;
+  --color-whitesmoke-600: #ececec;
+  --light-head: #777;
+  --color-gray-100: #000f2a;
+  --color-darkslateblue-100: #00225d;
+  --color-mediumblue-100: #0040e6;
+  --color-mediumblue-200: #013edc;
+  --color-mediumblue-300: rgba(7, 64, 255, 0.61);
+  --color-ghostwhite-100: #f0f2ff;
+  --color-royalblue-100: #446bf5;
+  --color-lightgray: #cfcfcf;
+  --color-dimgray: #525252;
+
+  /* Gaps */
+  --gap-53xl: 72px;
+  --gap-base: 16px;
+  --gap-12xl-5: 31.5px;
+  --gap-44xl: 63px;
+
+  /* Paddings */
+  --padding-3xs: 10px;
+
+  /* Border radiuses */
+  --br-2xs: 11px;
+  --br-9xs: 4px;
+  --br-sm: 14px;
+  --br-mini: 15px;
+  --br-2xs-5: 10.5px;
+  --br-sm-6: 13.6px;
+  --br-10xs-1: 2.1px;
+  --br-20xl: 39px;
+  --br-5xs-6: 7.6px;
+  --br-13xl: 32px;
+  --br-16xl: 35px;
+  --br-8xl-6: 27.6px;
+  --br-12xs-9: 0.9px;
+  --br-37xl-5: 56.5px;
+}
